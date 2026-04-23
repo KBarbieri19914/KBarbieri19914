@@ -1,16 +1,16 @@
-## Hi there 👋
+# What's up 🚀
 
-<!--
-**KBarbieri19914/KBarbieri19914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **KBarbieri19914**, a automation engineer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I write code while drinking coffee
+- 🌟 Open source enthusiast
+
+## Tech
+
+`PostgreSQL` `Terraform` `SQLite` `Zig` `Kubernetes`
+
+---
+
+_Always learning._
